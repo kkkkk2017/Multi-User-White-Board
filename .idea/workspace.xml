@@ -1,0 +1,1298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/MainScreen.java" description="private boolean freeBrush = false;" line="30" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ed5d42e-1f33-4bac-9e1c-a7360ba19f0f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/ServerLoginScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/ServerMainScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1308">
+              <caret line="144" column="25" selection-start-line="144" selection-end-line="145" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#exit#0;class#ServerMainScreen#0" />
+                <element signature="method#updateClients#0;class#ServerMainScreen#0" />
+                <element signature="method#removeClient#0;class#ServerMainScreen#0" />
+                <element signature="method#selectBrush#0;class#ServerMainScreen#0" />
+                <element signature="method#selectLine#0;class#ServerMainScreen#0" />
+                <element signature="method#selectCircle#0;class#ServerMainScreen#0" />
+                <element signature="method#selectRect#0;class#ServerMainScreen#0" />
+                <element signature="method#enterText#0;class#ServerMainScreen#0" />
+                <element signature="method#draw#0;class#ServerMainScreen#0" />
+                <element signature="method#brushDraw#0;class#ServerMainScreen#0" />
+                <element signature="method#endDraw#0;class#ServerMainScreen#0" />
+                <element signature="method#saveCanvas#0;class#ServerMainScreen#0" />
+                <element signature="method#disselectAllBrushes#0;class#ServerMainScreen#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/module-info.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="2" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getClients#0;class#Server#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/ServerService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/ClientService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/AdminController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#init#0;class#AdminController#0" />
+                <element signature="method#setClient#0;class#AdminController#0" />
+                <element signature="method#getClientName#0;class#AdminController#0" />
+                <element signature="method#joinServer#0;class#AdminController#0" />
+                <element signature="method#closeServer#0;class#AdminController#0" />
+                <element signature="method#updateClientCanvas#0;class#AdminController#0" />
+                <element signature="method#containClient#0;class#AdminController#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Singleton" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>drag</find>
+      <find>gui</find>
+      <find>rece</find>
+      <find>kick</find>
+      <find>show(</find>
+      <find>plat</find>
+      <find>update</find>
+      <find>broad</find>
+      <find>join</find>
+      <find>remove</find>
+      <find>[admin</find>
+      <find>system.out</find>
+      <find>circle</find>
+      <find>handle</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/PrimaryController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/AdminScreen.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/org/DS_assignment2/adminScreen.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/AdminScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Server/MessengerServiceController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Server/MessengerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Server/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Server/GUIService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Client/ClientController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Server/MainScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Server/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Server/Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Server/ServerController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/ServerController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/GUIService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/SeverService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Client/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Client/ClientService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Client/MainScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Client/LoginScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Server/ServerStarter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Server/ServerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Server/Server.java" />
+        <option value="$PROJECT_DIR$/src/main/java/module-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/GUIStarter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Administator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Administrator.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/LoginScreen.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/ServerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/ServerGUIBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/ClientService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/GUIBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/ClientStarter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/LoginScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/AdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/ServerStarter.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/org/DS_assignment2/ServerMainScreen.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/org/DS_assignment2/MainScreen.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/ClientMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/org/DS_assignment2/LoginScreen.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/org/DS_assignment2/ServerLoginScreen.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/Server.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/ServerMainScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/MainScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/ClientController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/DS_assignment2/ServerLoginScreen.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-2" />
+    <option name="width" value="1522" />
+    <option name="height" value="1932" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SharedWhiteboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SharedWhiteboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SharedWhiteboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SharedWhiteboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SharedWhiteboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SharedWhiteboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SharedWhiteboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SharedWhiteboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SharedWhiteboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SharedWhiteboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SharedWhiteboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SharedWhiteboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="DS_assignment2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SharedWhiteboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SharedWhiteboard" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SharedWhiteboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SharedWhiteboard" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SharedWhiteboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SharedWhiteboard" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SharedWhiteboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SharedWhiteboard" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="DS_assignment2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SharedWhiteboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SharedWhiteboard" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590640299469" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kaixi\OneDrive\Desktop\SharedWhiteboard\src\main\resources\org\DS_assignment2" />
+      <recent name="C:\Users\kaixi\OneDrive\Desktop\Study Stuffs\Distributed System\A2\SharedWhiteboard\src\main\resources\org\DS_assignment2" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.DS_assignment2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.DS_assignment2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kaixi\OneDrive\Desktop\SharedWhiteboard\src\main\java\org\DS_assignment2" />
+      <recent name="C:\Users\kaixi\OneDrive\Desktop\SharedWhiteboard\src\main\resources\org\DS_assignment2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ServerStarter">
+    <configuration name="ClientController" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.DS_assignment2.ClientController" />
+      <module name="SharedWhiteboard" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.DS_assignment2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientStarter" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.DS_assignment2.ClientStarter" />
+      <module name="SharedWhiteboard" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 4444 3000" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.DS_assignment2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientStarter2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.DS_assignment2.ClientStarter" />
+      <module name="SharedWhiteboard" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 4444 1234" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.DS_assignment2.Main" />
+      <module name="SharedWhiteboard" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.DS_assignment2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.DS_assignment2.Server" />
+      <module name="SharedWhiteboard" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.DS_assignment2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.DS_assignment2.ServerStarter" />
+      <module name="SharedWhiteboard" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 4444 " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.DS_assignment2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientStarter2" />
+      <item itemvalue="Application.ClientController" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.ServerStarter" />
+      <item itemvalue="Application.ClientStarter" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientStarter" />
+        <item itemvalue="Application.ServerStarter" />
+        <item itemvalue="Application.ClientController" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ed5d42e-1f33-4bac-9e1c-a7360ba19f0f" name="Default Changelist" comment="" />
+      <created>1588654444709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588654444709</updated>
+      <workItem from="1588654451486" duration="10808000" />
+      <workItem from="1588734470302" duration="21753000" />
+      <workItem from="1588905955364" duration="25785000" />
+      <workItem from="1589348072537" duration="6365000" />
+      <workItem from="1589358178738" duration="23147000" />
+      <workItem from="1589444650045" duration="146000" />
+      <workItem from="1589444843340" duration="239000" />
+      <workItem from="1589445126519" duration="130000" />
+      <workItem from="1589445302163" duration="43290000" />
+      <workItem from="1589631168278" duration="18583000" />
+      <workItem from="1589777530401" duration="165000" />
+      <workItem from="1589798541865" duration="1723000" />
+      <workItem from="1589863922071" duration="3184000" />
+      <workItem from="1590199335476" duration="4072000" />
+      <workItem from="1590632186705" duration="1177000" />
+      <workItem from="1590637949282" duration="1123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="161690000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info x="510" y="59" width="480" height="843" id="simpleUML" order="7" type="WINDOWED" weight="0.3298969" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.36180308" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.13523132" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48754448" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32977462" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32977462" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.5776987" />
+      <window_info anchor="bottom" id="Sequence" order="13" weight="0.3084223" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17525773" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32977462" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4223013" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976275" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32977462" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/SecondaryController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/AdminScreen.form" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/org/DS_assignment2/adminScreen.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/ServerController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/AdminScreen.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/14/javafx-graphics-14-win.jar!/javafx/scene/canvas/Canvas.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#1235#1236#0" expanded="true" />
+            <element signature="e#1267#1268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/kaixi/OneDrive/Desktop/Study Stuffs/Distributed System/A2/SharedWhiteboard/src/main/java/org/DS_assignment2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/main/java/org/DS_assignment2</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8" x="588.0" y="221.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="0.0" y="351.701171875">com</node>
+            <node x="349.0" y="201.701171875">images</node>
+            <node x="178.0" y="201.701171875">netscape</node>
+            <node x="0.0" y="426.701171875">org</node>
+            <node x="0.0" y="126.701171875">toolbarButtonGraphics</node>
+            <node x="292.0" y="351.701171875">sun</node>
+            <node x="142.0" y="426.701171875">jdk</node>
+            <node x="0.0" y="201.701171875">META-INF</node>
+            <node x="243.0" y="126.701171875">groovyjarjarasm</node>
+            <node x="147.0" y="351.701171875">java</node>
+            <node x="0.0" y="276.701171875">groovy</node>
+            <node x="315.0" y="276.701171875">javax</node>
+            <node x="281.0" y="13.201171875">groovyjarjarcommonscli</node>
+            <node x="161.0" y="276.701171875">javafx</node>
+            <node x="40.0" y="5.701171875">groovyjarjarantlr</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="groovyjarjarantlr" target="groovyjarjarantlr">
+              <point x="0.0" y="15.0" />
+              <point x="123.0" y="65.701171875" />
+              <point x="10.0" y="65.701171875" />
+              <point x="10.0" y="20.701171875" />
+              <point x="-83.0" y="-0.0" />
+            </edge>
+            <edge source="groovyjarjarcommonscli" target="groovyjarjarcommonscli">
+              <point x="-51.5" y="15.0" />
+              <point x="332.5" y="63.201171875" />
+              <point x="261.0" y="63.201171875" />
+              <point x="261.0" y="35.701171875" />
+              <point x="-103.0" y="7.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-148.0" y="235.0" />
+          <SelectedNodes>
+            <node>com</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JIGSAW/org.DS_assignment2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JIGSAW</ID>
+          <OriginalElement>org.DS_assignment2</OriginalElement>
+          <nodes>
+            <node x="" y="">java.datatransfer</node>
+            <node x="" y="">java.rmi</node>
+            <node x="" y="">java.scripting</node>
+            <node x="" y="">java.xml</node>
+            <node x="" y="">jdk.unsupported</node>
+            <node x="" y="">java.desktop</node>
+            <node x="" y="">javafx.fxml</node>
+            <node x="" y="">javafx.graphics</node>
+            <node x="" y="">java.prefs</node>
+            <node x="" y="">javafx.controls</node>
+            <node x="" y="">org.DS_assignment2</node>
+            <node x="" y="">javafx.base</node>
+            <node x="" y="">jdk.jfr</node>
+            <node x="" y="">java.logging</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9169811320754717" x="257.0" y="456.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/Service.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/Administrator.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.desktop/java/awt/image/BufferedImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="311" column="11" selection-start-line="311" selection-start-column="11" selection-end-line="311" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.rmi/sun/rmi/server/UnicastRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="151" selection-start-line="151" selection-end-line="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-swing/11-ea+24/javafx-swing-11-ea+24-win.jar!/javafx/embed/swing/SwingFXUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1009">
+          <caret line="106" column="38" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/example.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/14/javafx-fxml-14-win.jar!/javafx/fxml/FXMLLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="2424" selection-start-line="2424" selection-end-line="2424" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.rmi/sun/rmi/server/UnicastServerRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="358" selection-start-line="358" selection-end-line="358" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/ServerGUIBuilder.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.rmi/sun/rmi/registry/RegistryImpl_Stub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="152" selection-start-line="152" selection-end-line="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="156" column="19" selection-start-line="156" selection-start-column="19" selection-end-line="156" selection-end-column="19" />
+          <folding>
+            <element signature="e#5877#5878#0" expanded="true" />
+            <element signature="e#5913#5914#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/14/javafx-graphics-14-win.jar!/javafx/scene/layout/BorderStroke.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="82" column="11" selection-start-line="82" selection-start-column="11" selection-end-line="82" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/14/javafx-graphics-14-win.jar!/com/sun/glass/ui/win/WinApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="95" column="24" selection-start-line="95" selection-start-column="24" selection-end-line="95" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/14/javafx-graphics-14-win.jar!/javafx/scene/Node.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="3105" column="5" lean-forward="true" selection-start-line="3105" selection-start-column="5" selection-end-line="3105" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/14/javafx-graphics-14-win.jar!/javafx/scene/image/WritableImage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+          <folding>
+            <element signature="e#824#825#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/org/DS_assignment2/MainScreen.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="17" column="81" lean-forward="true" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="81" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/org/DS_assignment2/ServerMainScreen.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="38" column="139" lean-forward="true" selection-start-line="38" selection-start-column="139" selection-end-line="38" selection-end-column="139" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/org/DS_assignment2/LoginScreen.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/org/DS_assignment2/ServerLoginScreen.fxml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/MainScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="152" selection-start-line="152" selection-end-line="152" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#updateCanvas#0;class#MainScreen#0" />
+            <element signature="method#exit#0;class#MainScreen#0" />
+            <element signature="method#updateClients#0;class#MainScreen#0" />
+            <element signature="method#selectBrush#0;class#MainScreen#0" />
+            <element signature="method#selectLine#0;class#MainScreen#0" />
+            <element signature="method#selectCircle#0;class#MainScreen#0" />
+            <element signature="method#selectRect#0;class#MainScreen#0" />
+            <element signature="method#enterText#0;class#MainScreen#0" />
+            <element signature="method#draw#0;class#MainScreen#0" />
+            <element signature="method#endDraw#0;class#MainScreen#0" />
+            <element signature="method#saveCanvas#0;class#MainScreen#0" />
+            <element signature="method#disselectAllBrushes#0;class#MainScreen#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.DS_assignment2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.DS_assignment2</OriginalElement>
+          <nodes>
+            <node x="730.0412387766555" y="1680.5">org.DS_assignment2.ClientMessage</node>
+            <node x="115.54826038159342" y="1860.0">org.DS_assignment2.ServerLoginScreen</node>
+            <node x="568.0482603815935" y="0.0">org.DS_assignment2.Client</node>
+            <node x="966.0412387766555" y="1714.0">org.DS_assignment2.LoginScreen</node>
+            <node x="725.8394991582492" y="1303.0">org.DS_assignment2.ClientController</node>
+            <node x="467.7982603815935" y="144.0">org.DS_assignment2.ClientService</node>
+            <node x="32.46643518518522" y="743.0">org.DS_assignment2.ServerMainScreen</node>
+            <node x="153.28556397306386" y="1391.0">org.DS_assignment2.Server</node>
+            <node x="825.9844276094275" y="311.0">org.DS_assignment2.MainScreen</node>
+            <node x="256.33333333333326" y="1670.0">org.DS_assignment2.ServerStarter</node>
+            <node x="0.0" y="343.5">org.DS_assignment2.AdminController</node>
+            <node x="604.3745721099889" y="1871.0">org.DS_assignment2.ClientStarter</node>
+            <node x="903.7344276094275" y="897.0">org.DS_assignment2.GUIBuilder</node>
+            <node x="356.97306397306386" y="918.5">org.DS_assignment2.ServerService</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.DS_assignment2.ClientMessage" target="org.DS_assignment2.ClientService">
+              <point x="-72.0" y="-59.5" />
+              <point x="766.0412387766555" y="1640.0" />
+              <point x="707.9497685185185" y="1640.0" />
+              <point x="707.9497685185185" y="281.0" />
+              <point x="616.2982603815935" y="281.0" />
+              <point x="40.5" y="48.5" />
+            </edge>
+            <edge source="org.DS_assignment2.ClientMessage" target="org.DS_assignment2.ClientController">
+              <point x="0.0" y="-59.5" />
+              <point x="838.0412387766555" y="1650.0" />
+              <point x="857.3394991582492" y="1650.0" />
+              <point x="0.0" y="158.5" />
+            </edge>
+            <edge source="org.DS_assignment2.ClientService" target="org.DS_assignment2.Client">
+              <point x="0.0" y="-48.5" />
+              <point x="575.7982603815935" y="124.0" />
+              <point x="626.6732603815935" y="124.0" />
+              <point x="-8.375" y="37.0" />
+            </edge>
+            <edge source="org.DS_assignment2.ServerStarter" target="org.DS_assignment2.ServerService">
+              <point x="73.33333333333337" y="-70.0" />
+              <point x="439.66666666666663" y="1650.0" />
+              <point x="466.16056397306386" y="1650.0" />
+              <point x="466.16056397306386" y="1283.0" />
+              <point x="443.6730639730639" y="1283.0" />
+              <point x="-57.799999999999955" y="59.5" />
+            </edge>
+            <edge source="org.DS_assignment2.Server" target="org.DS_assignment2.ServerMainScreen">
+              <point x="-108.375" y="-70.5" />
+              <point x="189.41056397306386" y="1283.0" />
+              <point x="153.96643518518522" y="1283.0" />
+              <point x="0.0" y="235.0" />
+            </edge>
+            <edge source="org.DS_assignment2.Server" target="org.DS_assignment2.ServerService">
+              <point x="108.375" y="-70.5" />
+              <point x="406.16056397306386" y="1283.0" />
+              <point x="385.87306397306384" y="1283.0" />
+              <point x="-115.60000000000002" y="59.5" />
+            </edge>
+            <edge source="org.DS_assignment2.Server" target="org.DS_assignment2.AdminController">
+              <point x="-36.125" y="-70.5" />
+              <point x="261.66056397306386" y="1283.0" />
+              <point x="298.4664351851852" y="1283.0" />
+              <point x="298.4664351851852" y="718.0" />
+              <point x="262.5" y="718.0" />
+              <point x="105.0" y="158.5" />
+            </edge>
+            <edge source="org.DS_assignment2.Server" target="org.DS_assignment2.ClientService">
+              <point x="36.125" y="-70.5" />
+              <point x="333.91056397306386" y="1283.0" />
+              <point x="325.4999999999999" y="1283.0" />
+              <point x="325.4999999999999" y="281.0" />
+              <point x="535.2982603815935" y="281.0" />
+              <point x="-40.5" y="48.5" />
+            </edge>
+            <edge source="org.DS_assignment2.ClientStarter" target="org.DS_assignment2.ClientController">
+              <point x="20.624999999999943" y="-26.0" />
+              <point x="707.4995721099888" y="1835.0" />
+              <point x="719.5412387766555" y="1835.0" />
+              <point x="719.5412387766555" y="1650.0" />
+              <point x="769.6728324915824" y="1650.0" />
+              <point x="-87.66666666666669" y="158.5" />
+            </edge>
+            <edge source="org.DS_assignment2.ClientStarter" target="org.DS_assignment2.ClientService">
+              <point x="-20.625000000000057" y="-26.0" />
+              <point x="666.2495721099888" y="1835.0" />
+              <point x="656.4730639730639" y="1835.0" />
+              <point x="656.4730639730639" y="291.0" />
+              <point x="589.2982603815935" y="291.0" />
+              <point x="13.5" y="48.5" />
+            </edge>
+            <edge source="org.DS_assignment2.AdminController" target="org.DS_assignment2.Client">
+              <point x="-63.0" y="-158.5" />
+              <point x="94.5" y="291.0" />
+              <point x="129.46643518518533" y="291.0" />
+              <point x="129.46643518518533" y="104.0" />
+              <point x="593.1732603815935" y="104.0" />
+              <point x="-41.875" y="37.0" />
+            </edge>
+            <edge source="org.DS_assignment2.ClientMessage" target="org.DS_assignment2.Client">
+              <point x="72.00000000000003" y="-59.5" />
+              <point x="910.0412387766555" y="1650.0" />
+              <point x="1121.2344276094275" y="1650.0" />
+              <point x="1121.2344276094275" y="94.0" />
+              <point x="693.6732603815935" y="94.0" />
+              <point x="58.62499999999994" y="37.0" />
+            </edge>
+            <edge source="org.DS_assignment2.ClientController" target="org.DS_assignment2.GUIBuilder">
+              <point x="71.72727272727275" y="-158.5" />
+              <point x="929.0667718855219" y="1263.0" />
+              <point x="977.2344276094275" y="1263.0" />
+              <point x="-24.5" y="81.0" />
+            </edge>
+            <edge source="org.DS_assignment2.GUIBuilder" target="org.DS_assignment2.MainScreen">
+              <point x="0.0" y="-81.0" />
+              <point x="1001.7344276094275" y="718.0" />
+              <point x="1008.2344276094275" y="718.0" />
+              <point x="60.75" y="191.0" />
+            </edge>
+            <edge source="org.DS_assignment2.ServerLoginScreen" target="org.DS_assignment2.AdminController">
+              <point x="-47.5" y="-37.0" />
+              <point x="163.04826038159342" y="1835.0" />
+              <point x="21.966435185185333" y="1835.0" />
+              <point x="21.966435185185333" y="718.0" />
+              <point x="52.5" y="718.0" />
+              <point x="-105.0" y="158.5" />
+            </edge>
+            <edge source="org.DS_assignment2.ServerStarter" target="org.DS_assignment2.Server">
+              <point x="-73.33333333333326" y="-70.0" />
+              <point x="293.0" y="1650.0" />
+              <point x="225.53556397306386" y="1650.0" />
+              <point x="-72.25" y="70.5" />
+            </edge>
+            <edge source="org.DS_assignment2.ClientStarter" target="org.DS_assignment2.ClientMessage">
+              <point x="61.87499999999994" y="-26.0" />
+              <point x="748.7495721099888" y="1835.0" />
+              <point x="838.0412387766555" y="1835.0" />
+              <point x="0.0" y="59.5" />
+            </edge>
+            <edge source="org.DS_assignment2.ClientStarter" target="org.DS_assignment2.ServerService">
+              <point x="-61.87500000000006" y="-26.0" />
+              <point x="624.9995721099888" y="1835.0" />
+              <point x="501.47306397306386" y="1835.0" />
+              <point x="0.0" y="59.5" />
+            </edge>
+            <edge source="org.DS_assignment2.AdminController" target="org.DS_assignment2.ClientService">
+              <point x="63.0" y="-158.5" />
+              <point x="220.5" y="261.0" />
+              <point x="481.2982603815935" y="261.0" />
+              <point x="-94.5" y="48.5" />
+            </edge>
+            <edge source="org.DS_assignment2.ClientController" target="org.DS_assignment2.ClientService">
+              <point x="-47.81818181818181" y="-158.5" />
+              <point x="809.5213173400673" y="1253.0" />
+              <point x="747.8333333333333" y="1253.0" />
+              <point x="747.8333333333333" y="261.0" />
+              <point x="670.2982603815935" y="261.0" />
+              <point x="94.5" y="48.5" />
+            </edge>
+            <edge source="org.DS_assignment2.Server" target="org.DS_assignment2.ServerStarter">
+              <point x="72.25" y="70.5" />
+              <point x="370.03556397306386" y="1650.0" />
+              <point x="366.33333333333326" y="1650.0" />
+              <point x="0.0" y="-70.0" />
+            </edge>
+            <edge source="org.DS_assignment2.MainScreen" target="org.DS_assignment2.ClientController">
+              <point x="-60.75" y="191.0" />
+              <point x="886.7344276094275" y="718.0" />
+              <point x="893.2344276094275" y="718.0" />
+              <point x="893.2344276094275" y="1283.0" />
+              <point x="881.24859006734" y="1283.0" />
+              <point x="23.909090909090878" y="-158.5" />
+            </edge>
+            <edge source="org.DS_assignment2.LoginScreen" target="org.DS_assignment2.ClientController">
+              <point x="-47.5" y="-26.0" />
+              <point x="1013.5412387766555" y="1640.0" />
+              <point x="945.0061658249158" y="1640.0" />
+              <point x="87.66666666666669" y="158.5" />
+            </edge>
+            <edge source="org.DS_assignment2.ClientController" target="org.DS_assignment2.ServerService">
+              <point x="-95.63636363636363" y="-158.5" />
+              <point x="761.7031355218855" y="1273.0" />
+              <point x="617.0730639730639" y="1273.0" />
+              <point x="115.60000000000002" y="59.5" />
+            </edge>
+            <edge source="org.DS_assignment2.ClientController" target="org.DS_assignment2.Client">
+              <point x="119.54545454545453" y="-158.5" />
+              <point x="976.8849537037037" y="1283.0" />
+              <point x="1110.2344276094275" y="1283.0" />
+              <point x="1110.2344276094275" y="104.0" />
+              <point x="676.9232603815935" y="104.0" />
+              <point x="41.87499999999994" y="37.0" />
+            </edge>
+            <edge source="org.DS_assignment2.LoginScreen" target="org.DS_assignment2.GUIBuilder">
+              <point x="47.5" y="-26.0" />
+              <point x="1108.5412387766555" y="1640.0" />
+              <point x="1073.435606060606" y="1640.0" />
+              <point x="1073.435606060606" y="1273.0" />
+              <point x="1075.2344276094275" y="1273.0" />
+              <point x="73.5" y="81.0" />
+            </edge>
+            <edge source="org.DS_assignment2.ServerService" target="org.DS_assignment2.ClientService">
+              <point x="0.0" y="-59.5" />
+              <point x="501.47306397306386" y="291.0" />
+              <point x="562.2982603815935" y="291.0" />
+              <point x="-13.5" y="48.5" />
+            </edge>
+            <edge source="org.DS_assignment2.ServerMainScreen" target="org.DS_assignment2.AdminController">
+              <point x="0.0" y="-235.0" />
+              <point x="153.96643518518522" y="718.0" />
+              <point x="157.5" y="718.0" />
+              <point x="0.0" y="158.5" />
+            </edge>
+            <edge source="org.DS_assignment2.ServerLoginScreen" target="org.DS_assignment2.ServerStarter">
+              <point x="47.5" y="-37.0" />
+              <point x="258.0482603815934" y="1835.0" />
+              <point x="366.33333333333326" y="1835.0" />
+              <point x="0.0" y="70.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="554.0" y="375.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/ClientStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/14/javafx-graphics-14-win.jar!/javafx/application/Application.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/ClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#1947#1948#0" expanded="true" />
+            <element signature="e#1981#1982#0" expanded="true" />
+            <element signature="e#2230#2231#0" expanded="true" />
+            <element signature="e#2265#2266#0" expanded="true" />
+            <element signature="method#quit#0;class#ClientController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/LoginScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/ClientMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/module-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getClients#0;class#Server#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/ServerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/ClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#init#0;class#AdminController#0" />
+            <element signature="method#setClient#0;class#AdminController#0" />
+            <element signature="method#getClientName#0;class#AdminController#0" />
+            <element signature="method#joinServer#0;class#AdminController#0" />
+            <element signature="method#closeServer#0;class#AdminController#0" />
+            <element signature="method#updateClientCanvas#0;class#AdminController#0" />
+            <element signature="method#containClient#0;class#AdminController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="n#properties#0;n#project#0;n#!!top" />
+            <element signature="n#build#0;n#project#0;n#!!top" />
+            <element signature="n#plugins#0;n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/GUIBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/ServerStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="31" column="77" selection-start-line="31" selection-start-column="77" selection-end-line="31" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/ServerLoginScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/DS_assignment2/ServerMainScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1308">
+          <caret line="144" column="25" selection-start-line="144" selection-end-line="145" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#exit#0;class#ServerMainScreen#0" />
+            <element signature="method#updateClients#0;class#ServerMainScreen#0" />
+            <element signature="method#removeClient#0;class#ServerMainScreen#0" />
+            <element signature="method#selectBrush#0;class#ServerMainScreen#0" />
+            <element signature="method#selectLine#0;class#ServerMainScreen#0" />
+            <element signature="method#selectCircle#0;class#ServerMainScreen#0" />
+            <element signature="method#selectRect#0;class#ServerMainScreen#0" />
+            <element signature="method#enterText#0;class#ServerMainScreen#0" />
+            <element signature="method#draw#0;class#ServerMainScreen#0" />
+            <element signature="method#brushDraw#0;class#ServerMainScreen#0" />
+            <element signature="method#endDraw#0;class#ServerMainScreen#0" />
+            <element signature="method#saveCanvas#0;class#ServerMainScreen#0" />
+            <element signature="method#disselectAllBrushes#0;class#ServerMainScreen#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>

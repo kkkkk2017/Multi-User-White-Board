@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ColorPicker?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ScrollPane?>
+<BorderPane fx:id="pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="550" minWidth="600" prefHeight="550.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="org.DS_assignment2.ServerMainScreen">
+  <top>
+      <VBox>
+        <HBox fx:id="brushGroup" alignment="CENTER_LEFT" prefHeight="20.0" prefWidth="600.0" style="-fx-border-color: black;">
+              <ColorPicker fx:id="colorPicker"> </ColorPicker>
+              <Button fx:id="brushBtn" onAction="#selectBrush" text="Brush"></Button>
+              <Button fx:id="lineBtn" onAction="#selectLine" text="-"></Button>
+              <Button fx:id="circleBtn" onAction="#selectCircle" text="O"></Button>
+              <Button fx:id="rectBtn" onAction="#selectRect" text="Rect"></Button>
+              <TextField fx:id="inputText"></TextField>
+              <Button fx:id = "textBtn" onAction="#enterText" text="Text"></Button>
+          </HBox>
+          <HBox fx:id="btnGroup" alignment="CENTER_RIGHT" prefHeight="20.0" prefWidth="600.0" style="-fx-border-color: black;">
+              <Button fx:id="openBtn" text="Open" onMouseClicked="#openFile" style="-fx-background-color: lightyellow;"></Button>
+              <Button fx:id="saveBtn" text="Save" onMouseClicked="#saveFile" style="-fx-background-color: lightgreen;"></Button>
+              <Button fx:id="newBtn" text="New" onMouseClicked="#newCanvas" style="-fx-background-color: pink;"></Button>
+              <Button fx:id="KickBtn" text="KickOut" onMouseClicked="#removeClient" style="-fx-background-color: lightblue;"></Button>
+              <Button fx:id="exitBtn" text="Exit" onMouseClicked="#exit" style="-fx-background-color: salmon;"></Button>
+          </HBox>
+      </VBox>
+  </top>
+   <center>
+       <HBox fx:id="canvasPane" style="-fx-background-color: white" prefHeight="400.0" prefWidth="500.0">
+           <Canvas fx:id="canvas" height="400.0" width="500.0" onMousePressed="#draw" onMouseDragged="#brushDraw" onMouseReleased="#endDrawBrush"/>
+       </HBox>
+   </center>
+    <right>
+        <VBox fx:id="userbox" alignment="TOP_CENTER" prefHeight="400.0" prefWidth="100.0" style="-fx-border-color: black;" spacing="3">
+        </VBox>
+    </right>
+    <bottom>
+        <VBox alignment="CENTER_LEFT" prefHeight="100" style="-fx-border-color: black;">
+            <Label fx:id="youR" text="You are: ">
+                <font>
+                    <Font name="Comic Sans MS Bold" size="24.0" />
+                </font>
+            </Label>
+        </VBox>
+    </bottom>
+</BorderPane>

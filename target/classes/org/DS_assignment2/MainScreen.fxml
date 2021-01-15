@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ColorPicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<?import javafx.scene.control.TextField?>
+<BorderPane fx:id="pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="520" minWidth="600" prefHeight="540.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.DS_assignment2.MainScreen">
+  <top>
+      <HBox fx:id="btnGroup" prefHeight="20.0" prefWidth="600.0" style="-fx-border-color: black;">
+          <ColorPicker fx:id="colorPicker"> </ColorPicker>
+          <Button fx:id="brushBtn" onAction="#selectBrush" text="Brush"></Button>
+          <Button fx:id="lineBtn" onAction="#selectLine" text="-"></Button>
+          <Button fx:id="circleBtn" onAction="#selectCircle" text="O"></Button>
+          <Button fx:id="rectBtn" onAction="#selectRect" text="Rect"></Button>
+          <TextField fx:id="inputText"></TextField>
+          <Button fx:id = "textBtn" onAction="#enterText" text="Text"></Button>
+          <Button fx:id="exitBtn" onMouseClicked="#exit" text="Exit" style="-fx-background-color: salmon; -fx-border-color: black; -fx-border-width: 1"/>
+      </HBox>
+  </top>
+   <center>
+       <Pane fx:id="canvasPane" minHeight="400" minWidth="500" prefHeight="400.0" prefWidth="500.0" style="-fx-background-color: white">
+           <Canvas fx:id="canvas" height="400.0" width="500.0" onMousePressed="#draw" onMouseDragged="#brushDraw" onMouseReleased="#endDrawBrush"/>
+       </Pane>
+   </center>
+    <right>
+        <VBox fx:id="userbox" alignment="TOP_CENTER" prefHeight="200.0" prefWidth="100.0" spacing="3" style="-fx-border-color: black;">
+        </VBox>
+    </right>
+    <bottom>
+        <VBox alignment="CENTER_LEFT" prefHeight="100" style="-fx-border-color: black;">
+            <Label fx:id="youR" text="You are: ">
+                <font>
+                    <Font name="Comic Sans MS Bold" size="24.0" />
+                </font>
+            </Label>
+        </VBox>
+    </bottom>
+</BorderPane>
